@@ -1,0 +1,99 @@
+h1{
+    padding: 10px;
+    text-align: center;
+    color: rgb(128, 255, 0);
+    font-family:cursive;
+    background-color: gray;
+    border: 7px groove green;
+}
+h2{
+
+    text-indent: 15px;
+    border-bottom: 2px solid green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    width: 650px;
+    text-indent: 15px;
+    border-bottom: 2px solid green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    width: 940px;
+    font-family: cursive;
+    text-align: center;
+}
+figure{
+    height: 300px;
+    padding: 15px;
+    margin: 30px;
+    background-color: gray;
+    border: 7px solid #ccc;
+    text-align: center;
+}
+figcaption{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    margin-top: 10px;
+}
+p {
+    padding: 0 45px;
+    
+    line-height: 15px;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    text-indent: 15px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;    
+    color: chartreuse;
+    background-color: black;
+}
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+    background: gainsboro;
+    border: 7px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Pepe{
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+}
+#pepe_dark{
+    float:none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+#pepe_coco{
+    float: none;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+#pepe_fumo{
+    float: none;
+    margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    font-style: italic;
+    color: rgb(128, 255, 0);
+}
+
+#rodape{
+    float: none;
+    color:#777;
+    margin: 15px 0;
+    vertical-align:baseline;
+    width: 300px;
+}
+#rodape img{
+    float: none;
+    margin-right: 15px;
+    vertical-align: middle;
+    width: 94px;
+}
